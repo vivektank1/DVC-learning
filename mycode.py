@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-df = pd.DataFrame({"name":["vivek","darshan","ajay"], "age":[32,23,30],"city":["Surat","surat","valsad"]})
+df = pd.DataFrame({"name":["vivek","darshan","ajay","ghanshyam"], "age":[32,23,30,18],"city":["Surat","surat","valsad","gandhada"]})
 
 data_dir = "data"
 
